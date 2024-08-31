@@ -38,15 +38,15 @@ export default function Home() {
       height: 10,
     },
     {
-      image: "/asset/images/newCondo.png",
+      image: "/asset/images/IMG_0418.png",
       width: 10,
       height: 10,
     },
-    // {
-    //   image: "/asset/images/pattaya.png",
-    //   width: 10,
-    //   height: 10,
-    // },
+    {
+      image: "/asset/images/IMG_0482.png",
+      width: 10,
+      height: 10,
+    },
     {
       image: "/asset/images/jatujak.png",
       width: 10,
@@ -57,18 +57,23 @@ export default function Home() {
       width: 10,
       height: 10,
     },
-    // {
-    //   image: "/asset/images/stoneBeach.png",
-    //   width: 10,
-    //   height: 10,
-    // },
+    {
+      image: "/asset/images/IMG_0491.png",
+      width: 10,
+      height: 10,
+    },
     {
       image: "/asset/images/unionmall.png",
       width: 10,
       height: 10,
     },
     {
-      image: "/asset/images/terminal.png",
+      image: "/asset/images/IMG_0492.png",
+      width: 10,
+      height: 10,
+    },
+    {
+      image: "/asset/images/central_kk.JPG",
       width: 10,
       height: 10,
     },
@@ -99,6 +104,11 @@ export default function Home() {
     },
     {
       image: "/asset/images/IMG_0442.jpg",
+      width: 10,
+      height: 10,
+    },
+    {
+      image: "/asset/images/IMG_0493.png",
       width: 10,
       height: 10,
     },
