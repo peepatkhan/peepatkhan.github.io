@@ -42,11 +42,11 @@ export default function Home() {
       width: 10,
       height: 10,
     },
-    {
-      image: "/asset/images/pattaya.png",
-      width: 10,
-      height: 10,
-    },
+    // {
+    //   image: "/asset/images/pattaya.png",
+    //   width: 10,
+    //   height: 10,
+    // },
     {
       image: "/asset/images/jatujak.png",
       width: 10,
@@ -57,11 +57,11 @@ export default function Home() {
       width: 10,
       height: 10,
     },
-    {
-      image: "/asset/images/stoneBeach.png",
-      width: 10,
-      height: 10,
-    },
+    // {
+    //   image: "/asset/images/stoneBeach.png",
+    //   width: 10,
+    //   height: 10,
+    // },
     {
       image: "/asset/images/unionmall.png",
       width: 10,
